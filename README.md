@@ -14,3 +14,7 @@ The Minion Game
 
 Write a function - Leap Year
 ![image](https://github.com/user-attachments/assets/35dcd553-086e-454d-9d03-5681242094ec)
+
+
+Iterator & Iterables
+![image](https://github.com/user-attachments/assets/4871da6b-8865-4602-9bb8-68124ae96f42)
