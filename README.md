@@ -10,3 +10,7 @@ Compress the String
 
 The Minion Game
 ![image](https://github.com/user-attachments/assets/234a1206-7885-4d4e-b02c-0f418c5cc29e)
+
+
+Write a function - Leap Year
+![image](https://github.com/user-attachments/assets/35dcd553-086e-454d-9d03-5681242094ec)
