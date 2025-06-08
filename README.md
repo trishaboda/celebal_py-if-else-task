@@ -26,3 +26,7 @@ Tuples
 
 Finding the Percentage
 ![image](https://github.com/user-attachments/assets/02f5ec92-3702-465d-bade-8e57d038c83a)
+
+
+String Formatting
+![image](https://github.com/user-attachments/assets/0c318e77-1b40-4096-b626-2b134e742520)
