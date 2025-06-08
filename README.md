@@ -16,6 +16,10 @@ Write a function - Leap Year
 ![image](https://github.com/user-attachments/assets/35dcd553-086e-454d-9d03-5681242094ec)
 
 
+Word Order
+![image](https://github.com/user-attachments/assets/f28c8da1-8d30-45b1-aa60-443b7fcc878f)
+
+
 Iterator & Iterables
 ![image](https://github.com/user-attachments/assets/4871da6b-8865-4602-9bb8-68124ae96f42)
 
