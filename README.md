@@ -18,3 +18,7 @@ Write a function - Leap Year
 
 Iterator & Iterables
 ![image](https://github.com/user-attachments/assets/4871da6b-8865-4602-9bb8-68124ae96f42)
+
+
+Tuples
+![image](https://github.com/user-attachments/assets/67285d4f-dd3f-4b74-8f5a-0efb61995289)
