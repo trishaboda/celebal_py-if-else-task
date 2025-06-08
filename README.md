@@ -1,4 +1,7 @@
 ## Results
+Python - if else task
+![image](https://github.com/user-attachments/assets/47032d59-e851-4000-82d1-41785fdd369f)
+
 
 Arithematic Operators
 ![image](https://github.com/user-attachments/assets/ee2548fe-74c3-4e85-a1a9-cf948c05c18c)
