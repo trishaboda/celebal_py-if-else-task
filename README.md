@@ -22,3 +22,7 @@ Iterator & Iterables
 
 Tuples
 ![image](https://github.com/user-attachments/assets/67285d4f-dd3f-4b74-8f5a-0efb61995289)
+
+
+Finding the Percentage
+![image](https://github.com/user-attachments/assets/02f5ec92-3702-465d-bade-8e57d038c83a)
